@@ -14,6 +14,8 @@
           mapTypeControl: false,
           scaleControl: false,
           disableDefaultUi: true,
+          getclickable: false,
+          clickableIcons: false,
         }"
         style="width: 70rem; height: 42rem; margin: 32px auto"
       >
